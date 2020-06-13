@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trasser"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trasser">
+				<Option output="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug/trasser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 trasser"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trasser/fast">
+				<Option output="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug/trasser" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Frameworks/SFML.framework"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 trasser/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/maksimtrunnikov/Google\ Диск/trasser/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Light.cpp">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Light.h">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Material.cpp">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Material.h">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Sphere.cpp">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/Sphere.h">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/cmake-build-debug/trasser">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/geometry.h">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/main.cpp">
+			<Option target="trasser"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/maksimtrunnikov/Google Диск/trasser/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

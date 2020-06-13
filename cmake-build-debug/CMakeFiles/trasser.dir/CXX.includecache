@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maksimtrunnikov/Google Диск/trasser/Light.h
+Sphere.h
+/Users/maksimtrunnikov/Google Диск/trasser/Sphere.h
+
+/Users/maksimtrunnikov/Google Диск/trasser/Material.h
+geometry.h
+/Users/maksimtrunnikov/Google Диск/trasser/geometry.h
+
+/Users/maksimtrunnikov/Google Диск/trasser/Sphere.h
+Material.h
+/Users/maksimtrunnikov/Google Диск/trasser/Material.h
+
+/Users/maksimtrunnikov/Google Диск/trasser/geometry.h
+cmath
+-
+vector
+-
+cassert
+-
+iostream
+-
+
+/Users/maksimtrunnikov/Google Диск/trasser/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+SFML/Graphics.hpp
+-
+Sphere.h
+/Users/maksimtrunnikov/Google Диск/trasser/Sphere.h
+Light.h
+/Users/maksimtrunnikov/Google Диск/trasser/Light.h
+stb-master/stb_image.h
+/Users/maksimtrunnikov/Google Диск/trasser/stb-master/stb_image.h
+stb-master/stb_image_write.h
+/Users/maksimtrunnikov/Google Диск/trasser/stb-master/stb_image_write.h
+
+/Users/maksimtrunnikov/Google Диск/trasser/stb-master/stb_image.h
+stb_image.h
+/Users/maksimtrunnikov/Google Диск/trasser/stb-master/stb_image.h
+stdio.h
+-
+stdlib.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/Users/maksimtrunnikov/Google Диск/trasser/stb-master/stb_image_write.h
+stdlib.h
+-
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
